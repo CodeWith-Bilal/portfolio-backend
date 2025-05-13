@@ -8,6 +8,7 @@ from dotenv import load_dotenv
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 import os
+from routes import emailSend
 
 # Initialize FastAPI app
 app = FastAPI()
@@ -23,6 +24,9 @@ app.add_middleware(
 
 # Load environment variables from .env file
 load_dotenv()
+
+# Include the email sending router
+app.include_router(emailSend.router, tags=["email"])
 
 # Pydantic model for request body
 class QuestionRequest(BaseModel):

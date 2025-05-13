@@ -1,1 +1,100 @@
-I am a passionate Full Stack Developer with 3 years of professional experience in designing, developing, and maintaining web applications. I have strong expertise in both frontend and backend development, with a particular focus on Python for backend services and modern frameworks for frontend interfaces. I thrive in dynamic environments where I can bring ideas to life, solve complex problems, and deliver high-quality solutions. I am committed to continuous learning and take pride in building scalable, efficient, and user-friendly applications.
+# === PROFESSIONAL PROFILE ===
+
+Who is Muhammad Bilal?
+Muhammad Bilal is a highly skilled full-stack developer with over 2 years of professional experience. He is currently working at Techloset Solution.
+
+Is he available for a new project or new task?
+Muhammad Bilal is currently working on a complex and modern project, specifically developing the backend using Python and FastAPI. While this project is a priority, he is always open to considering new opportunities, especially complex and challenging tasks. Feel free to reach out if you'd like to discuss potential collaboration.
+
+Tell me about Bilal
+Bilal is a passionate frontend and backend developer with over 2 years of experience. He specializes in modern technologies such as Next.js, Redux Toolkit, TypeScript, and backend technologies like Python, FastAPI, Langchain, and Langraph.
+
+What does Muhammad Bilal do?
+He handles end-to-end software development, including frontend and backend development, API design, database management, and performance optimization.
+
+What is his job role?
+Bilal works as a full-stack developer, building web and mobile applications using modern technologies.
+
+Where does he work?
+He currently works at an organization called Techloset Solution.
+
+What are his technical skills?
+Muhammad Bilal is skilled in:
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, React Native, Next.js, Redux Toolkit
+- Backend: Python (FastAPI), Node.js, Express.js
+- Databases: MongoDB, PostgreSQL, Firebase
+
+What technologies is he proficient in?
+He is proficient in full-stack web and mobile development using technologies such as React, React Native, Next.js, FastAPI, Express.js, MongoDB, and PostgreSQL.
+
+What kind of projects has he developed?
+Some of his projects include:
+- A real-time chat app using React Native
+- An HR management system for employee handling
+- A movie suggestion app with filters and recommendations
+- A public safety missing person finder app
+- Backend for a FastAPI-powered project (in development)
+
+What is his latest project?
+He is currently building the backend of his latest project using Python and FastAPI.
+
+How much experience does he have?
+He has more than 2 years of professional experience in full-stack development.
+
+What frontend technologies does he know?
+He is skilled in HTML, CSS, JavaScript, TypeScript, React, Next.js, and Redux Toolkit.
+
+What backend technologies does he work with?
+He works with Node.js, Express.js, and Python (FastAPI).
+
+What mobile development experience does he have?
+He has developed mobile applications using React Native, including a real-time chat app and a missing person finder.
+
+What databases does he use?
+He uses both SQL and NoSQL databases such as MongoDB, PostgreSQL, and Firebase.
+
+Has he built real-time applications?
+Yes, he has built a real-time chat application using React Native.
+
+What frameworks or libraries does he use?
+He uses React, React Native, Next.js, Redux Toolkit, Express.js, and FastAPI, among others.
+
+What is his area of expertise?
+His expertise is in full-stack web and mobile development, scalable APIs, real-time features, and clean architecture.
+
+Is he more experienced in frontend or backend?
+He is equally experienced in both frontend and backend development, making him a well-rounded full-stack developer.
+
+What tools does he use in development?
+He uses tools and technologies like VS Code, Git, Postman, MongoDB Compass, Firebase Console, and deployment services like Vercel and Render.
+
+What is his development approach?
+He focuses on clean architecture, modular and scalable code, performance optimization, and delivering intuitive user experiences.
+
+What is Redux Toolkit and how has he used it?
+Redux Toolkit is a toolset for efficient Redux development. Bilal uses it for state management in complex React/React Native applications.
+
+What is FastAPI and how is he using it?
+FastAPI is a modern Python web framework. Bilal uses it to build high-performance APIs for his backend systems with proper structure and validation.
+
+How does he ensure client satisfaction?
+He delivers optimized, clean code, listens to client requirements, maintains clear communication, and ensures timely delivery.
+
+# === GREETINGS ===
+
+Hi
+Hello! I'm here to answer any questions you have about Muhammad Bilal’s professional background. Feel free to ask! 😊
+
+Hello
+Hi there! How can I help you learn more about Muhammad Bilal’s skills or experience?
+
+Hey
+Hey! I’m ready to answer any questions you have about Muhammad Bilal’s work or projects.
+
+How are you
+I’m doing well, thank you! I’m here to help you with any information you need about Muhammad Bilal’s professional background.
+
+# === INAPPROPRIATE OR PERSONAL QUESTIONS ===
+
+[default_inappropriate]
+I'm sorry, but I cannot respond to that question. Please keep your queries respectful and professional.
